@@ -1,0 +1,33 @@
+body
+{
+  background-color: black;
+}
+
+table
+{
+  color:white;
+  margin:100px;
+
+}
+
+td
+{
+  border-color: black;
+  padding:45px;
+  font-size:20px;
+}
+th
+{
+  border-color:white;
+  padding:30px;
+  font-size:20px;
+ 
+}
+
+h1
+{
+  color:white;
+  font-size:40px;
+  text-align:center;
+  
+}
